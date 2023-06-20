@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iBi",
+    "gnD",
+    "iRi"
+  ],
+  "key": {
+    "i": {
+      "item": "mango:enchanted_iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:black_stained_glass_pane"
+    },
+    "g": {
+      "item": "mango:enchanted_gold_ingot"
+    },
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "D": {
+      "item": "mango:enchanted_diamond"
+    },
+    "R": {
+      "item": "mango:enchanted_redstone"
+    }
+  },
+  "result": {
+    "item": "mango:payphone",
+    "count": 1
+  }
+}

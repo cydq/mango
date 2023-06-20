@@ -1,0 +1,89 @@
+{
+  "block.mango.compactor": "Compactor",
+  "block.mango.decompactor": "Decompactor",
+  "block.mango.asphalt": "Asphalt",
+
+  "item.mango.enchanted_copper_ingot": "Enchanted Copper Ingot",
+  "item.mango.enchanted_copper_block": "Enchanted Copper Block",
+  "item.mango.magical_copper_ingot": "Magical Copper Ingot",
+  "item.mango.magical_copper_block": "Magical Copper Block",
+
+  "item.mango.enchanted_diamond": "Enchanted Diamond",
+  "item.mango.enchanted_diamond_block": "Enchanted Diamond Block",
+  "item.mango.magical_diamond": "Magical Diamond",
+  "item.mango.magical_diamond_block": "Magical Diamond Block",
+
+  "item.mango.enchanted_emerald": "Enchanted Emerald",
+  "item.mango.enchanted_emerald_block": "Enchanted Emerald Block",
+  "item.mango.magical_emerald": "Magical Emerald",
+  "item.mango.magical_emerald_block": "Magical Emerald Block",
+
+  "item.mango.enchanted_gold_ingot": "Enchanted Gold Ingot",
+  "item.mango.enchanted_gold_block": "Enchanted Gold Block",
+  "item.mango.magical_gold_ingot": "Magical Gold Ingot",
+  "item.mango.magical_gold_block": "Magical Gold Block",
+
+  "item.mango.enchanted_iron_ingot": "Enchanted Iron Ingot",
+  "item.mango.enchanted_iron_block": "Enchanted Iron Block",
+  "item.mango.magical_iron_ingot": "Magical Iron Ingot",
+  "item.mango.magical_iron_block": "Magical Iron Block",
+
+  "item.mango.enchanted_lapis_lazuli": "Enchanted Lapis Lazuli",
+  "item.mango.enchanted_lapis_block": "Enchanted Lapis Block",
+  "item.mango.magical_lapis_lazuli": "Magical Lapis Lazuli",
+  "item.mango.magical_lapis_block": "Magical Lapis Block",
+
+  "item.mango.enchanted_redstone": "Enchanted Redstone",
+  "item.mango.enchanted_redstone_block": "Enchanted Redstone Block",
+  "item.mango.magical_redstone": "Magical Redstone",
+  "item.mango.magical_redstone_block": "Magical Redstone Block",
+
+  "item.mango.bedrock_breaker": "Bedrock Breaker",
+  "item.mango.package": "Package",
+
+  "item.mango.chaos_orb": "Chaos Orb",
+  "item.mango.exalted_orb": "Exalted Orb",
+  "item.mango.divine_orb": "Divine Orb",
+
+  "item.mango.sapphire_fragment": "Sapphire Fragment",
+  "item.mango.sapphire_small": "Small Sapphire",
+  "item.mango.sapphire_medium": "Medium Sapphire",
+  "item.mango.sapphire_large": "Large Sapphire",
+  "item.mango.sapphire_refined": "Refined Sapphire",
+  "item.mango.sapphire_cube": "Sapphire Cube",
+
+  "item.mango.payphone": "Payphone",
+  "item.mango.payphone_ender_chest": "Payphone: Ender Chest",
+  "item.mango.payphone_slot_1": "Payphone: Slot 1",
+  "item.mango.payphone_slot_2": "Payphone: Slot 2",
+  "item.mango.payphone_slot_3": "Payphone: Slot 3",
+  "item.mango.payphone_slot_4": "Payphone: Slot 4",
+  "item.mango.payphone_slot_5": "Payphone: Slot 5",
+  "item.mango.payphone_workbench": "Payphone: Workbench",
+  "item.mango.payphone_anvil": "Payphone: Anvil",
+  "item.mango.payphone_enchanting": "Payphone: Enchantment Table",
+  "item.mango.payphone_smithing": "Payphone: Smithing Table",
+  "item.mango.payphone_compact": "Payphone: Compactor",
+  "item.mango.payphone_decompact": "Payphone: Decompactor",
+  "item.mango.payphone_stone_cutting": "Payphone: Stone Cutter",
+
+  "enchantment.mango.rainmaker": "Rainmaker",
+  "enchantment.mango.wither_aspect": "Wither Aspect",
+
+  "gui.mango.payphone_ender_chest": "Ender Chest",
+  "gui.mango.payphone_slot_1": "Slot 1",
+  "gui.mango.payphone_slot_2": "Slot 2",
+  "gui.mango.payphone_slot_3": "Slot 3",
+  "gui.mango.payphone_slot_4": "Slot 4",
+  "gui.mango.payphone_slot_5": "Slot 5",
+
+  "gui.mango.payphone_workbench": "Crafting",
+  "gui.mango.payphone_anvil": "Anvil",
+  "gui.mango.payphone_enchanting": "Enchanting",
+  "gui.mango.payphone_smithing": "Smithing",
+  "gui.mango.payphone_compact": "Decompact Item",
+  "gui.mango.payphone_decompact": "Compact Item",
+
+  "key.mango.open_payphone": "Open Payphone",
+  "category.mango.default": "Mango"
+}

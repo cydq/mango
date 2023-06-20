@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "R#R",
+        "#S#",
+        "R#R"
+    ],
+    "key": {
+        "#": {
+            "item": "mango:enchanted_diamond"
+        },
+        "S": {
+            "item": "minecraft:shulker_box"
+        },
+        "R": {
+            "item": "mango:enchanted_redstone_block"
+        }
+    },
+    "result": {
+        "item": "mango:payphone_slot_3",
+        "count": 1
+    }
+}

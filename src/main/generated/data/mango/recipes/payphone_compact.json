@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:pointed_dripstone"
+    },
+    "C": {
+      "item": "mango:compactor"
+    },
+    "P": {
+      "item": "minecraft:pitcher_plant"
+    },
+    "S": {
+      "item": "minecraft:slime_block"
+    }
+  },
+  "pattern": [
+    " # ",
+    "SCS",
+    " P "
+  ],
+  "result": {
+    "item": "mango:payphone_compact"
+  },
+  "show_notification": true
+}

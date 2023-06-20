@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:deepslate_copper_ore"
+    },
+    "B": {
+      "item": "minecraft:deepslate_diamond_ore"
+    },
+    "C": {
+      "item": "mango:decompactor"
+    },
+    "D": {
+      "item": "minecraft:deepslate_emerald_ore"
+    },
+    "E": {
+      "item": "minecraft:deepslate_iron_ore"
+    },
+    "I": {
+      "item": "minecraft:deepslate_redstone_ore"
+    },
+    "J": {
+      "item": "minecraft:deepslate_copper_ore"
+    },
+    "O": {
+      "item": "minecraft:deepslate_gold_ore"
+    },
+    "X": {
+      "item": "minecraft:deepslate_lapis_ore"
+    }
+  },
+  "pattern": [
+    "#DJ",
+    "ECI",
+    "XBO"
+  ],
+  "result": {
+    "item": "mango:payphone_decompact"
+  },
+  "show_notification": true
+}

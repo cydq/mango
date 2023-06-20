@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model":  "mango:block/community_chest" },
+    "facing=east": { "model":  "mango:block/community_chest", "y": 90 },
+    "facing=south": { "model":  "mango:block/community_chest", "y": 180 },
+    "facing=west": { "model":  "mango:block/community_chest", "y": 270 }
+  }
+}

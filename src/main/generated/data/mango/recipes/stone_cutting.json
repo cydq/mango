@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:polished_blackstone"
+    },
+    "B": {
+      "item": "minecraft:smooth_red_sandstone"
+    },
+    "C": {
+      "item": "minecraft:stonecutter"
+    },
+    "D": {
+      "item": "minecraft:polished_granite"
+    },
+    "E": {
+      "item": "minecraft:polished_deepslate"
+    },
+    "I": {
+      "item": "minecraft:polished_andesite"
+    },
+    "J": {
+      "item": "minecraft:polished_diorite"
+    },
+    "O": {
+      "item": "minecraft:mud_bricks"
+    },
+    "X": {
+      "item": "minecraft:smooth_sandstone"
+    }
+  },
+  "pattern": [
+    "#DJ",
+    "ECI",
+    "XBO"
+  ],
+  "result": {
+    "item": "mango:stone_cutting"
+  },
+  "show_notification": true
+}

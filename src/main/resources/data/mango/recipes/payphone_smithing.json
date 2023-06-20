@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#N",
+        "ii",
+        "ii"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:smithing_table"
+        },
+        "N": {
+            "item": "minecraft:netherite_upgrade_smithing_template"
+        },
+        "i": {
+            "item": "mango:enchanted_iron_ingot"
+        }
+    },
+    "result": {
+        "item": "mango:payphone_smithing",
+        "count": 1
+    }
+}

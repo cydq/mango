@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "RAR",
+        "III"
+    ],
+    "key": {
+        "i": {
+            "item": "mango:enchanted_iron_ingot"
+        },
+        "R": {
+            "item": "mango:enchanted_redstone"
+        },
+        "A": {
+            "item": "minecraft:anvil"
+        },
+        "I": {
+            "item": "mango:enchanted_iron_block"
+        }
+    },
+    "result": {
+        "item": "mango:payphone_anvil",
+        "count": 1
+    }
+}

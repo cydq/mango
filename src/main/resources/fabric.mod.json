@@ -1,0 +1,52 @@
+{
+	"schemaVersion": 1,
+	"id": "mango",
+	"version": "${version}",
+	"name": "Mango",
+	"description": "Gameplay Modifications for SnowySMP",
+	"authors": ["cynquil"],
+	"contact": {
+		"homepage": "https://github.com/cynquil/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/mango/icon.png",
+	"environment": "*",
+	"accessWidener": "mango.accesswidener",
+	"entrypoints": {
+		"main": [
+			{
+				"value": "com.cynquil.mango.Mango",
+				"adapter": "kotlin"
+			}
+		],
+		"client": [
+			{
+				"value": "com.cynquil.mango.MangoClient",
+				"adapter": "kotlin"
+			}
+		],
+		"fabric-datagen": [
+			{
+				"value": "com.cynquil.mango.MangoDataGenerator",
+				"adapter": "kotlin"
+			}
+		]
+	},
+	"mixins": [
+		"mango.mixins.json",
+		{
+			"config": "mango.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"fabric-language-kotlin": ">=1.8.22",
+		"amethyst": ">=1.0.1"
+	},
+	"suggests": {}
+}

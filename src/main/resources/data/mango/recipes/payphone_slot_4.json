@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#",
+        "ESE",
+        "#E#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:end_crystal"
+        },
+        "E": {
+            "item": "mango:magical_emerald"
+        },
+        "S": {
+            "item": "minecraft:shulker_box"
+        }
+    },
+    "result": {
+        "item": "mango:payphone_slot_4",
+        "count": 1
+    }
+}

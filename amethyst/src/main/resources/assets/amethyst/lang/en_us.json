@@ -1,0 +1,24 @@
+{
+  "attribute.amethyst.health": "Health",
+  "attribute.amethyst.defence": "Defense",
+  "attribute.amethyst.strength": "Strength",
+  "attribute.amethyst.intelligence": "Intelligence",
+  "attribute.amethyst.critical_chance": "Crit Chance",
+  "attribute.amethyst.critical_damage": "Crit Damage",
+  "attribute.amethyst.ferocity": "Lucky Strike Chance",
+  "attribute.amethyst.attack_speed": "Attack Speed",
+  "attribute.amethyst.speed": "Speed",
+  "attribute.amethyst.vitality": "Vitality",
+  "attribute.amethyst.magic_find": "Magic Find",
+  "attribute.amethyst.mana": "Mana",
+
+  "category.amethyst.default": "Mango",
+
+  "rarity.amethyst.common": "COMMON",
+  "rarity.amethyst.uncommon": "UNCOMMON",
+  "rarity.amethyst.rare": "RARE",
+  "rarity.amethyst.epic": "EPIC",
+  "rarity.amethyst.legendary": "LEGENDARY",
+  "rarity.amethyst.mythic": "MYTHIC",
+  "rarity.amethyst.special": "SPECIAL"
+}

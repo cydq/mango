@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mango:item/payphone_upgrade/ender_chest"
+  }
+}

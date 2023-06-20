@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "BSB",
+        "ENE"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:piglin_head"
+        },
+        "D": {
+            "item": "mango:enchanted_diamond_block"
+        },
+        "B": {
+            "item": "minecraft:beacon"
+        },
+        "S": {
+            "item": "minecraft:shulker_box"
+        },
+        "E": {
+            "item": "minecraft:elytra"
+        },
+        "N": {
+            "item": "minecraft:netherite_block"
+        }
+    },
+    "result": {
+        "item": "mango:payphone_slot_5",
+        "count": 1
+    }
+}

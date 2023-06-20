@@ -1,0 +1,47 @@
+{
+  "parent": "mango:item/payphone/t1",
+  "overrides": [
+    {
+      "predicate": {
+        "payphone_upgrades": 0.01
+      },
+      "model": "mango:item/payphone/t2"
+    },
+    {
+      "predicate": {
+        "payphone_upgrades": 0.02
+      },
+      "model": "mango:item/payphone/t3"
+    },
+    {
+      "predicate": {
+        "payphone_upgrades": 0.03
+      },
+      "model": "mango:item/payphone/t4"
+    },
+    {
+      "predicate": {
+        "payphone_upgrades": 0.04
+      },
+      "model": "mango:item/payphone/t5"
+    },
+    {
+      "predicate": {
+        "payphone_upgrades": 0.05
+      },
+      "model": "mango:item/payphone/t6"
+    },
+    {
+      "predicate": {
+        "payphone_upgrades": 0.06
+      },
+      "model": "mango:item/payphone/t7"
+    },
+    {
+      "predicate": {
+        "payphone_upgrades": 0.07
+      },
+      "model": "mango:item/payphone/t8"
+    }
+  ]
+}

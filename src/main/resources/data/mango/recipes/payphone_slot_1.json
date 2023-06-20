@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#_#",
+        "#B#",
+        "#_#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:polished_deepslate"
+        },
+        "_": {
+            "item": "minecraft:polished_deepslate_slab"
+        },
+        "B": {
+            "item": "minecraft:barrel"
+        }
+    },
+    "result": {
+        "item": "mango:payphone_slot_1",
+        "count": 1
+    }
+}

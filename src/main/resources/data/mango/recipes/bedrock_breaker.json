@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:fire_charge"
+    },
+    {
+      "item": "mango:enchanted_iron_ingot"
+    },
+    {
+      "item": "minecraft:end_crystal"
+    }
+  ],
+  "result": {
+    "item": "mango:bedrock_breaker",
+    "count": 2
+  }
+}

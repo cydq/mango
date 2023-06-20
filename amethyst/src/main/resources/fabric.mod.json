@@ -1,0 +1,46 @@
+{
+	"schemaVersion": 1,
+	"id": "amethyst",
+	"version": "${version}",
+	"name": "Amethyst",
+	"description": "(:",
+	"authors": [
+		"cynquil"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/cynquil/amethyst"
+	},
+	"license": "MIT",
+	"icon": "assets/amethyst/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			{
+				"value": "com.cynquil.amethyst.Amethyst",
+				"adapter": "kotlin"
+			}
+		],
+		"client": [
+			{
+				"value": "com.cynquil.amethyst.AmethystClient",
+				"adapter": "kotlin"
+			}
+		]
+	},
+	"mixins": [
+		"amethyst.mixins.json",
+		{
+			"config": "amethyst.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"fabric-language-kotlin": ">=1.8.22"
+	},
+	"suggests": {}
+}
