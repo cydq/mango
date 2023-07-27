@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "mango:stone_cutting"
+        "recipe": "mango:payphone_stone_cutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -28,7 +28,7 @@
   ],
   "rewards": {
     "recipes": [
-      "mango:stone_cutting"
+      "mango:payphone_stone_cutting"
     ]
   },
   "sends_telemetry_event": false
