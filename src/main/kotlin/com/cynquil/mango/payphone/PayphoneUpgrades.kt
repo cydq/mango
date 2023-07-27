@@ -75,7 +75,7 @@ object PayphoneUpgrades : Container() {
                     .pattern("XBO")
                     .input('#', Items.DEEPSLATE_COPPER_ORE)
                     .input('D', Items.DEEPSLATE_EMERALD_ORE)
-                    .input('J', Items.DEEPSLATE_COPPER_ORE)
+                    .input('J', Items.DEEPSLATE_COAL_ORE)
                     .input('E', Items.DEEPSLATE_IRON_ORE)
                     .input('C', Decompactor)
                     .input('I', Items.DEEPSLATE_REDSTONE_ORE)
