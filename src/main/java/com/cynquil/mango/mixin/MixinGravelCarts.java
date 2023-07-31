@@ -410,7 +410,7 @@ public abstract class MixinGravelCarts extends Entity {
             return 2;
 
         if (state.isOf(AsphaltBlock.INSTANCE))
-            return 4;
+            return 6;
 
         return 0;
     }
