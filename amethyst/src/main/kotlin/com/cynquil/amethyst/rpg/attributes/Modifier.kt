@@ -1,4 +1,4 @@
-package com.cynquil.mango.attributes
+package com.cynquil.amethyst.rpg.attributes
 
 data class Modifier(
     val attribute: Attribute,
