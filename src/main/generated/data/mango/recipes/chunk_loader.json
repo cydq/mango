@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "mango:enchanted_emerald_block"
+    },
+    "C": {
+      "item": "mango:augmented_mechanical_core"
+    },
+    "D": {
+      "item": "mango:enchanted_diamond"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": [
+    "#D#",
+    "NCN",
+    "QQQ"
+  ],
+  "result": {
+    "item": "mango:chunk_loader"
+  },
+  "show_notification": true
+}

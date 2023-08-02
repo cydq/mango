@@ -2,6 +2,7 @@
   "block.mango.compactor": "Compactor",
   "block.mango.decompactor": "Decompactor",
   "block.mango.asphalt": "Asphalt",
+  "block.mango.chunk_loader": "Chunk Loader",
 
   "item.mango.enchanted_copper_ingot": "Enchanted Copper Ingot",
   "item.mango.enchanted_copper_block": "Enchanted Copper Block",
@@ -66,6 +67,9 @@
   "item.mango.payphone_compact": "Payphone: Compactor",
   "item.mango.payphone_decompact": "Payphone: Decompactor",
   "item.mango.payphone_stone_cutting": "Payphone: Stone Cutter",
+
+  "item.mango.augmented_mechanical_core": "Augmented Mechanical Core",
+  "item.mango.blazing_nether_star": "Blazing Nether Star",
 
   "enchantment.mango.rainmaker": "Rainmaker",
   "enchantment.mango.wither_aspect": "Wither Aspect",

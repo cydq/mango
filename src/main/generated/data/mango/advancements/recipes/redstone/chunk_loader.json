@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_augmented_mechanical_core": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mango:augmented_mechanical_core"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mango:chunk_loader"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_augmented_mechanical_core",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mango:chunk_loader"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:fire_charge"
+    },
+    {
+      "item": "mango:enchanted_iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "mango:blazing_nether_star"
+  }
+}
