@@ -5,7 +5,8 @@
   "mixins": [
     "MixinGravelCarts",
     "MixinPayphoneReach",
-    "MixinRainmakerEnchantment"
+    "MixinRainmakerEnchantment",
+    "MixinRecoverEnchantment"
   ],
   "injectors": {
     "defaultRequire": 1

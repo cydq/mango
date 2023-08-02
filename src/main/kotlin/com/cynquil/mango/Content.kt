@@ -6,6 +6,7 @@ import com.cynquil.mango.compact.CompactModule
 import com.cynquil.mango.currency.ExperienceOrbs
 import com.cynquil.mango.currency.SapphireItems
 import com.cynquil.mango.enchantments.RainMakerEnchantment
+import com.cynquil.mango.enchantments.RecoverEnchantment
 import com.cynquil.mango.enchantments.WitherAspectEnchantment
 import com.cynquil.mango.items.AugmentedMechanicalCore
 import com.cynquil.mango.items.BedrockBreaker
@@ -29,6 +30,7 @@ object Content : Module(
 
     RainMakerEnchantment,
     WitherAspectEnchantment,
+    RecoverEnchantment,
 
     AsphaltBlock,
     AugmentedMechanicalCore,
