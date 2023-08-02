@@ -3,6 +3,7 @@
   "package": "com.cynquil.mango.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "MixinChaosOrb",
     "MixinGravelCarts",
     "MixinPayphoneReach",
     "MixinRainmakerEnchantment",

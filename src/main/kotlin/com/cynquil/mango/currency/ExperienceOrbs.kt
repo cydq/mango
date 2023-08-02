@@ -8,6 +8,7 @@ import com.cynquil.mango.Mango
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings
 import net.minecraft.entity.player.PlayerEntity
 import net.minecraft.item.ItemStack
+import net.minecraft.server.command.ExperienceCommand
 import net.minecraft.sound.SoundEvents
 import net.minecraft.util.Hand
 import net.minecraft.util.Identifier
@@ -22,7 +23,7 @@ object ExperienceOrbs : Container() {
     class Orb(
         id: Identifier,
         rarity: Rarity,
-        private val value: Int,
+        val value: Int,
         private val usable: Boolean = true,
         settings: FabricItemSettings = FabricItemSettings()
     ) : RpgItem(
